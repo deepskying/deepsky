@@ -1,6 +1,9 @@
 # 👏欢迎使用深空笔记👏
 
 我一直在寻找一款能够支持大型文档编辑并且内容丰富且自由的编辑器,遗憾的是在多年的写作过程中,我并未发现这样的东西,于是我决定自己设计一款满足目标的编辑器,作为多年来我所积累笔记的最终之地,现在它来了,很高兴将它分享给你.
+<img width="2560" height="1400" alt="屏幕截图 2025-08-31 091004" src="https://github.com/user-attachments/assets/3a5d43a1-5f91-4722-bdf4-77693896da87" />
+<img width="1977" height="894" alt="屏幕截图 2025-08-31 091123" src="https://github.com/user-attachments/assets/2434acf5-9b4c-4182-bb06-c72a5d74f20f" />
+<img width="1121" height="838" alt="屏幕截图 2025-08-31 091225" src="https://github.com/user-attachments/assets/493e3c9c-6372-4429-85b5-dfa45589a614" />
 
 
 
