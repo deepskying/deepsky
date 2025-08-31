@@ -1,8 +1,8 @@
-# Welcom to use deepsky-note 👏👏👏
+# 👏Welcom to use deepsky-note 👏
 I have long been searching for an editor capable of handling large-scale document editing with both richness and freedom in content creation. Unfortunately, throughout years of writing, I never quite found such a tool. So I decided to design one myself—an editor that would meet all these needs and serve as the ultimate home for the notes I’ve accumulated over the years.
 And now, it’s here. I’m thrilled to share it with you.
 
-# Features
+# ✨Features
 This project is dedicated to developing a modern document editor that supports large-scale document editing, multifunctionality, personalization, and extensibility. It also serves as a highly flexible graphical note-taking tool, featuring—but not limited to—the following functionalities:
 
 - Fully self-developed editor core and graphics engine
@@ -27,6 +27,6 @@ This project is dedicated to developing a modern document editor that supports l
 
 - Innovative block selection and layout root concepts
 
-# how to use
+# ✨Install
 click this link to download 
 https://github.com/deepskying/deepsky/releases​
